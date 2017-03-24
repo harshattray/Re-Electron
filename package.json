@@ -1,0 +1,27 @@
+{
+  "name": "re-electron",
+  "version": "1.0.0",
+  "description": "React based app built on electron",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harshattray/Re-Electron.git"
+  },
+  "keywords": [
+    "React",
+    "Electron",
+    "Spotify"
+  ],
+  "author": "Harsha Attray",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "~1.6.2"
+  },
+  "bugs": {
+    "url": "https://github.com/harshattray/Re-Electron/issues"
+  },
+  "homepage": "https://github.com/harshattray/Re-Electron#readme"
+}
